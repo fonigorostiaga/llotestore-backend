@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "timeStamp": 1668347622936,
+    "productos": [
+      {
+        "nombre": "Remera Leonardo Da Llote",
+        "codigo": "remeras",
+        "descripcion": "Remera oversize, 100% algodon con estampado de Leonardo Da Llote",
+        "precio": 1500,
+        "imagen": "remeraHombreDaVinci.png",
+        "stock": 15,
+        "timeStamp": 1668347149319,
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timeStamp": 1668347624642,
+    "productos": []
+  },
+  {
+    "id": 3,
+    "timeStamp": 1668347625264,
+    "productos": []
+  },
+  {
+    "id": 4,
+    "timeStamp": 1668347625907,
+    "productos": []
+  },
+  {
+    "id": 5,
+    "timeStamp": 1668347626489,
+    "productos": []
+  }
+]
