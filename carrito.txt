@@ -12,6 +12,26 @@
         "stock": 15,
         "timeStamp": 1668347149319,
         "id": 3
+      },
+      {
+        "nombre": "Remera Arya Llote",
+        "codigo": "remeras",
+        "descripcion": "Remera 100% algodon de algodon con cuello abierto y la imagen de Arya Llote, salvadora de los 7 reinos",
+        "precio": 1500,
+        "imagen": "remeraHombreArya",
+        "stock": 15,
+        "timeStamp": 1668347100864,
+        "id": 1
+      },
+      {
+        "nombre": "Remera LloteStudio",
+        "codigo": "remeras",
+        "descripcion": "Remera Hombre oversize 100% algodon con estampado LloteStudio Naranja",
+        "precio": 1500,
+        "imagen": "remeraHombre.png",
+        "stock": 15,
+        "timeStamp": 1668347124839,
+        "id": 2
       }
     ]
   },
