@@ -1,3 +1,4 @@
+
 const socket=io()
 let productos=[]
 socket.on('UPDATE_DATA',data=>{

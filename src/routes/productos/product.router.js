@@ -1,6 +1,6 @@
 const express=require('express')
 const router=express.Router()
-const fileProductos=require('../../../clase')
+const fileProductos=require('../../services/products/clase')
 
 router.get('/',async(_req,res)=>{
     try {

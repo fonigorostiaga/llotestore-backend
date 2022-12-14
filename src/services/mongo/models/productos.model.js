@@ -1,6 +1,10 @@
 const mongoose=require('mongoose')
 
 const productoModel=mongoose.Schema({
+    uid:{
+        type:String,
+        required:true
+    },
     nombre:{
         type:String,
         required:true

@@ -1,7 +1,7 @@
 const express=require('express')
 const router=express.Router()
-const fileProductos=require('../../../clase')
-const carritos=require('../../../claseCarrito')
+const fileProductos=require('../../services/products/clase')
+const carritos=require('../../services/carts/claseCarrito')
 
 router.post('/',async(_req,res)=>{
     try {

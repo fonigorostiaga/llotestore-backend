@@ -1,6 +1,10 @@
 const mongoose=require('mongoose')
 
 const carritoModel=mongoose.Schema({
+    uid:{
+        type:String,
+        required:true
+    },
     user:{
         type:String,
         required:true

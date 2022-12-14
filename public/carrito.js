@@ -48,7 +48,7 @@ const updateProducts=(products)=>{
               <h5 class="card-title">${i.nombre}</h5>
               <p class="card-text">${i.descripcion}</p>
               <p>precio: $${i.precio}</p>
-              <button onclick='addToCart("${i._id}")' class="btn btn-primary">Add to Cart</button>
+              <button onclick='addToCart("${i.uid}")' class="btn btn-primary">Add to Cart</button>
             </div>
           </div>
     
