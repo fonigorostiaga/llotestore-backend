@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Remera Arya Llote",
+    "codigo": "remeras",
+    "descripcion": "Remera 100% algodon de algodon con cuello abierto y la imagen de Arya Llote, salvadora de los 7 reinos",
+    "precio": 1500,
+    "imagen": "remeraHombreArya",
+    "stock": 15,
+    "timeStamp": 1668347100864,
+    "id": 1
+  },
+  {
+    "nombre": "Remera LloteStudio",
+    "codigo": "remeras",
+    "descripcion": "Remera Hombre oversize 100% algodon con estampado LloteStudio Naranja",
+    "precio": 1500,
+    "imagen": "remeraHombre.png",
+    "stock": 15,
+    "timeStamp": 1668347124839,
+    "id": 2
+  },
+  {
+    "nombre": "Remera Leonardo Da Llote",
+    "codigo": "remeras",
+    "descripcion": "Remera oversize, 100% algodon con estampado de Leonardo Da Llote",
+    "precio": 1500,
+    "imagen": "remeraHombreDaVinci.png",
+    "stock": 15,
+    "timeStamp": 1668347149319,
+    "id": 3
+  },
+  {
+    "nombre": "Remera LloteStudio Azul",
+    "codigo": "remeras",
+    "descripcion": "Remera oversize 100% algodon con estampado LloteStudio a color en base azul",
+    "precio": 1500,
+    "imagen": "remeraHombreLloteAzul.png",
+    "stock": 15,
+    "timeStamp": 1668347171976,
+    "id": 4
+  },
+  {
+    "nombre": "Remera Llote and chill",
+    "codigo": "remeras",
+    "descripcion": "Remera oversize 100% algodon con estampado LloteStudio chillin'",
+    "precio": 1500,
+    "imagen": "remeraHombreLloteRelax.png",
+    "stock": 15,
+    "timeStamp": 1668347198283,
+    "id": 5
+  },
+  {
+    "nombre": "Remera Llote cubico",
+    "codigo": "remeras",
+    "descripcion": "Remera oversize 100% algodon con estampado LloteStudio cubico",
+    "precio": 1500,
+    "imagen": "remeraHombreLloteCubo.png",
+    "stock": 15,
+    "timeStamp": 1668347215249,
+    "id": 6
+  },
+  {
+    "nombre": "Remera Llote Lluvia",
+    "codigo": "remeras",
+    "descripcion": "Remera OverSize 100% algodon con estampado de Llote Messi",
+    "precio": 1500,
+    "imagen": "remeraLluvia.png",
+    "stock": 15,
+    "timeStamp": 1668347237011,
+    "id": 7
+  },
+  {
+    "nombre": "Remera Pixelada",
+    "codigo": "remeras",
+    "descripcion": "Remera oversize 100% algodon con estampado LloteStudio Pixelado",
+    "precio": 1500,
+    "imagen": "remeraPixelada.png",
+    "stock": 15,
+    "timeStamp": 1668347254440,
+    "id": 8
+  },
+  {
+    "nombre": "Buzo San Llotin",
+    "codigo": "buzos",
+    "descripcion": "Buzo cangurito con capucha, color gris, imagen de San Llotin que te ayudara a buscar a tu media Llotenaranja",
+    "precio": 1500,
+    "imagen": "buzoSanLlotinGris.png",
+    "stock": 15,
+    "timeStamp": 1668347278952,
+    "id": 9
+  },
+  {
+    "nombre": "Buzo San Llotin",
+    "codigo": "buzos",
+    "descripcion": "Buzo cangurito con capucha, color blanco, imagen de San Llotin que te ayudara a buscar a tu media Llotenaranja",
+    "precio": 1500,
+    "imagen": "buzoSanLlotinBlanco.png",
+    "stock": 15,
+    "timeStamp": 1668347298757,
+    "id": 10
+  }
+]
